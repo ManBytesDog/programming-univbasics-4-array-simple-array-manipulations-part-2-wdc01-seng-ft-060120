@@ -8,4 +8,6 @@ def using_insert(array, new_element)
 end 
 
 
-def 
+def using_uniq(array)
+  
+end 
